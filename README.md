@@ -2,10 +2,10 @@
 
 Aprendizaje Autonomo 1: Seleccion de Sistemas de Gestion Empresarial.
 
-**Autor:** Pedro Joel Lamota Mena
-**Institucion:** Universidad Internacional del Ecuador (UIDE)
-**Materia:** ProgramacionOrientada a Objetos
-**Docente:** Ing. Carlos Andres Arevalo Torres
+**Autor:** Pedro Joel Lamota Mena.
+**Institucion:** Universidad Internacional del Ecuador (UIDE).
+**Materia:** Programacion Orientada a Objetos.
+**Docente:** Ing. Carlos Andres Arevalo Torres.
 
 ## Objetivo
 
